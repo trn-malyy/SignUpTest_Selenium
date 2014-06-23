@@ -1,0 +1,211 @@
+Test Case ID: 		TC-001.01 - PASSED
+Title Expected/Actual: 	Welcome to Sign Up/Welcome to Sign Up
+=======================================
+Test Case ID: 		TC-001.02 - PASSED
+Title Expected/Actual: 	Welcome to Facebook - Log In, Sign Up or Learn More/Welcome to Facebook - Log In, Sign Up or Learn More
+=======================================
+Test Case ID: 		TC-001.03 - PASSED
+Title Expected/Actual: 	Twitter/Twitter
+=======================================
+Test Case ID: 		TC-001.04 - PASSED
+Title Expected/Actual: 	Welcome to Flickr - Photo Sharing/Welcome to Flickr - Photo Sharing
+=======================================
+Test Case ID: 		TC-001.05 - PASSED
+Title Expected/Actual: 	YouTube/YouTube
+=======================================
+Test Case ID: 		TC-001.06 - PASSED
+Quote length: 65
+ Your Quote: If you think there is good in everybody you haven't met somebody 
+=======================================
+Test Case ID: 		TC-001.07 - PASSED
+Client’s current temperature, in Fahrenheit: 54.3 ?
+=======================================
+Test Case ID: 		TC-001.08 - PASSED
+First Expected/Actual:  BLANK / 
+Last Expected/Actual:  BLANK / 
+Email Expected/Actual:  BLANK / 
+Phone Expected/Actual:  BLANK / 
+=======================================
+Test Case ID: 		TC-001.09 - PASSED
+First Expected/Actual: 	Alex/Alex
+Last Expected/Actual: 	Moore/Moore
+Email Expected/Actual: 	alexmoore@gmail.com/alexmoore@gmail.com
+Phone Expected/Actual: 	415 555-1212/415 555-1212
+=======================================
+Test Case ID: 		TC-001.10 - PASSED
+Web Element First Name  Found
+=======================================
+Test Case ID: 		TC-001.11 - PASSED
+Web Element Last Name  Found
+=======================================
+Test Case ID: 		TC-001.12 - PASSED
+Web Element eMail  Found
+=======================================
+Test Case ID: 		TC-001.13 - PASSED
+Web Element Phone Number  Found
+=======================================
+Test Case ID: 		TC-001.14 - PASSED
+Web Element State Found
+=======================================
+Test Case ID: 		TC-001.15 - PASSED
+Web Element  Agree Checkbox Found
+=======================================
+Test Case ID: 		TC-001.16 - PASSED
+Web Element Reset Button Found
+=======================================
+Test Case ID: 		TC-001.17 - PASSED
+Web Element Submit Button Found
+=======================================
+Test Case ID: 		TC-001.18 - PASSED
+Web Element Male Radio Button Found
+=======================================
+Test Case ID: 		TC-001.19 - PASSED
+Web Element Female Radio Button Found
+=======================================
+Test Case ID: 		TC-001.20 - PASSED
+Error Expected/Actual: 	Please enter First Name/Please enter First Name
+=======================================
+Test Case ID: 		TC-001.21 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Please enter Last Name
+=======================================
+Test Case ID: 		TC-001.22 - PASSED
+Error Expected/Actual: 	Please enter Email Address/Please enter Email Address
+=======================================
+Test Case ID: 		TC-001.23 - PASSED
+Error Expected/Actual: 	Please enter Phone Number/Please enter Phone Number
+=======================================
+Test Case ID: 		TC-001.24 - PASSED
+Error Expected/Actual: 	Invalid Phone Number: should be 10 digits/Invalid Phone Number: should be 10 digits
+=======================================
+Test Case ID: 		TC-001.25.0 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.1 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.2 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.3 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.4 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.5 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.6 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.7 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.8 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.9 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.10 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.11 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.12 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.13 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.14 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.15 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.16 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.17 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.18 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.19 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.25.20 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid First Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.0 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.1 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.2 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.3 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.4 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.5 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.6 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.7 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.8 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.9 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.10 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.11 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.12 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.13 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.14 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.15 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.16 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.17 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.18 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.19 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.26.20 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Invalid Last Name: [a-zA-Z,.'-]{3,30}
+=======================================
+Test Case ID: 		TC-001.27 - PASSED
+Error Expected/Actual: 	Invalid Email Address: xx[min2]@x[min1].xx[2-6]/Invalid Email Address: xx[min2]@x[min1].xx[2-6]
+=======================================
+Test Case ID: 		TC-001.28 - PASSED
+Error Expected/Actual: 	Invalid Phone Number: should be 10 digits/Invalid Phone Number: should be 10 digi
+=================================THE END================================
