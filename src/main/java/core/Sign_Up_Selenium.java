@@ -618,7 +618,7 @@ public class Sign_Up_Selenium {
 			System.out.println("Test Case ID: \t\t" + text_case_id_25 + "." +i
 					+ " - PASSED");
 			System.out.println("Error Expected/Actual: \t"
-					+ error_lname_empty_expected + "/"
+					+ error_fname_invalid_expected + "/"
 					+ error_fname_invalid_actual);
 			System.out.println("=======================================");
 		} else {
@@ -654,7 +654,7 @@ public class Sign_Up_Selenium {
 			System.out.println("Test Case ID: \t\t" + text_case_id_26 + "." +i
 					+ " - PASSED");
 			System.out.println("Error Expected/Actual: \t"
-					+ error_lname_empty_expected + "/"
+					+ error_lname_invalid_expected + "/"
 					+ error_lname_invalid_actual);
 			System.out.println("=======================================");
 		} else {
